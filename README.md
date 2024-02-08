@@ -9,6 +9,7 @@ Requires python3, selenium and chromedriver to be installed within directory. Ch
 
 ## Usage
 mac user: python3 totaljobs.py
+
 win user: totaljobs.py
 
 User must mke sure the url is the results of a job search, ie job description criteria should be manually entered into website search engine. The results page of this search, should be starting point for this script.
